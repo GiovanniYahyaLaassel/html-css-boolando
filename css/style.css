@@ -16,5 +16,14 @@ img{
     flex-wrap: wrap;
 }
 .col-16{
+    position: relative;
     width: calc(100% / 3);
+}
+
+.card{
+    padding: 8px;
+}
+
+.discount{
+    background-color: red;
 }
