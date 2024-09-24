@@ -3,3 +3,18 @@
     box-sizing: border-box;
     margin: 0 auto;
 }
+img{
+    max-width: 100%;
+}
+/* layout main-content */
+.container{
+    min-height: 1000px;
+}
+.row{
+    max-width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-16{
+    width: calc(100% / 3);
+}
