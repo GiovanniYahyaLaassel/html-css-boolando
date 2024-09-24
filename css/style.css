@@ -52,6 +52,9 @@ body{
     position: absolute;
     left:40px;
 }
+.special{
+    background-color: green;
+}
 .heart{
     background-color: white;
     padding: 6px;
