@@ -27,7 +27,7 @@ body{
     margin-top: 20px;
 }
 .under{
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 /* style creations  */
@@ -37,21 +37,20 @@ body{
   padding: 2px;
   color: white;
   position: absolute;
-  bottom: 60px;
+  bottom: 80px;
   left: 36px;
 }
 
 .discount{
     background-color: red;
     position: absolute;
-    bottom:60px;
+    bottom:80px;
     left: 11px;
 }
 .green{
     background-color: green;
     position: absolute;
     left:40px;
-
 }
 .heart{
     background-color: white;
@@ -60,4 +59,16 @@ body{
     position: absolute;
     top: 5px;
     right: 0;
+}
+/* details-cover */
+.thin-text{
+    font-size: 10px;
+}
+.price{
+    font-size: 10px;
+    color: red;
+}
+.old-price{
+    font-size: 10px;
+    
 }
